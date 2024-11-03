@@ -1,6 +1,6 @@
 {
   "name": "mcompare",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A small, zero-dependency package for all-purpose comparing Minecraft mods folders.",
   "author": "Muffoi",
   "license": "MIT",
