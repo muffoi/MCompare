@@ -5,7 +5,10 @@
   "author": "Muffoi",
   "license": "MIT",
   "homepage": "https://github.com/muffoi/mcompare",
-  "repository": "muffoi/mcompare",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muffoi/mcompare.git"
+  },
   "bugs": "https://github.com/muffoi/mcompare/issues",
   "keywords": [
     "minecraft",
