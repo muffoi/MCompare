@@ -2,9 +2,25 @@
   "name": "mcompare",
   "version": "0.0.1",
   "description": "A small, zero-dependency package for all-purpose comparing Minecraft mods folders.",
+  "author": "Muffoi",
+  "license": "MIT",
+  "homepage": "https://github.com/muffoi/mcompare",
+  "repository": "muffoi/mcompare",
+  "bugs": "https://github.com/muffoi/mcompare/issues",
+  "keywords": [
+    "minecraft",
+    "modded",
+    "mods",
+    "compare",
+    "mcompare",
+    "mc",
+    "analyze",
+    "cli",
+    "formatted",
+    "colored",
+    "command-line"
+  ],
   "bin": {
     "mcompare": "index.js"
-  },
-  "author": "Muffoi",
-  "license": "MIT"
+  }
 }

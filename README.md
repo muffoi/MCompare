@@ -19,7 +19,6 @@ Open terminal in any directory you want and type `mcompare name` and apply to th
 
 For more information run `mcompare help`.
 
-> [!IMPORTANT]
 > If a path contains spaces in it, wrap it in double quotes (`"`).
 
 ## Examples
