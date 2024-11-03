@@ -6,8 +6,8 @@
 A small, zero-dependency package for all-purpose comparing Minecraft mods folders.
 
 ## Features
-- Comparation in 3+ paths at once
-- Version unintensive comparation
+- Comparison in 3+ paths at once
+- Version unintensive comparison
 - Automatic mod name and version extraction from file names
 - Highlights for files that are not jarfiles
 - Highlights for library mods
