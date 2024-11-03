@@ -10,7 +10,9 @@ A small, zero-dependency package for all-purpose comparing Minecraft mods folder
 - Support for Modrinth launcher disabled mods (`.jar.disabled`) files
 
 ## Installation
-None yet
+1. If you haven't already, install Node.js from its [download page](https://nodejs.org/en/download).
+2. Run `npm install -g mcompare`.
+
 
 ## Usage
 Open terminal in any directory you want and type `mcompare name` and apply to this command all paths you want to compare, separated by spaces.
