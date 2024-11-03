@@ -1,4 +1,8 @@
 # MCompare
+![NPM Version](https://img.shields.io/npm/v/mcompare)
+![NPM License](https://img.shields.io/npm/l/mcompare)
+![NPM Unpacked Size](https://img.shields.io/npm/unpacked-size/mcompare)
+
 A small, zero-dependency package for all-purpose comparing Minecraft mods folders.
 
 ## Features
